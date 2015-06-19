@@ -1,2 +1,4 @@
 Test command 1
 Test command 2
+Test command 3
+Test command 4
